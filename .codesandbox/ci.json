@@ -1,4 +1,3 @@
 {
-  "buildCommand": "build",
   "sandboxes": ["io-ts-application-stack"]
 }
